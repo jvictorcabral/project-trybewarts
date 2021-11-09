@@ -27,7 +27,7 @@ main {
   width: 675px;
 }
 
-#complete-name, #email-and-house {
+#complete-name , #email-and-house {
   display: flex;
 }
 
