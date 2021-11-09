@@ -27,6 +27,11 @@ main {
   width: 675px;
 }
 
+#complete-name,
+#email-and-house {
+  display: flex;
+}
+
 #trybewarts-forms-logo {
   height: 500px;
 }
