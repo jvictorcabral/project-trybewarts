@@ -6,6 +6,6 @@ btn.addEventListener('click', () => {
   if (email.value === 'tryber@teste.com' && passWord.value === '123456') {
     window.alert('Olá, Tryber!');
   } else {
-    window.alert('Email ou senha inválidos');
+    window.alert('Email ou senha inválidos.');
   }
 });
