@@ -27,7 +27,8 @@ main {
   width: 675px;
 }
 
-#complete-name , #email-and-house {
+#complete-name,
+#email-and-house {
   display: flex;
 }
 
@@ -42,4 +43,8 @@ main {
 
 #trybewarts-forms-logo {
   height: 500px;
+}
+
+#infos-input {
+  display: flex;
 }
